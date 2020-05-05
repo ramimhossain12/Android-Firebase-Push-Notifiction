@@ -1,0 +1,2 @@
+rootProject.name='FireBase Push Notifiction1'
+include ':app'
